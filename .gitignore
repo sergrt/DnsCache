@@ -33,6 +33,10 @@
 
 # Build dir
 build/
+cmake-build*/
 
 #gtest
 gtest/
+
+#IDE dirs
+.idea/
